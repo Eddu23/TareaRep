@@ -1,3 +1,7 @@
 Hola mundo 
 
+<<<<<<< HEAD
 Linea nueva creada desde rama Master
+=======
+Nueva linea de ramaNueva
+>>>>>>> ramaNueva
